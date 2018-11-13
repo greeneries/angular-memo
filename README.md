@@ -3,7 +3,8 @@
 
 ###### 1. db.json 실행
 ```
-C:\memo-json-server>json-server --watch db.json
+# cd memo-son-server
+# C:\memo-json-server>json-server --watch db.json
   \{^_^}/ hi!
   Loading db.json
   Done
@@ -17,7 +18,8 @@ C:\memo-json-server>json-server --watch db.json
     
 ###### 2. angular-memo 서버 실행
 ```
-C:\angular-memo\memo>ng serve --open
+# cd memo
+# C:\memo>ng serve --open
 ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 Date: 2018-11-13T00:56:58.746Z
 Hash: e8dba39750f794c12f44
